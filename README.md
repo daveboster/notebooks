@@ -13,4 +13,4 @@ The following items are what I use to create and run these notebooks. You can us
 
 ## Catalog
 
-[Playwright for .NET (C#) 🎭](./playwright-dotnet.ipynb) - A guide to getting started with Playwright for .NET (C#)
+[Playwright for .NET (C#)](./playwright-dotnet.ipynb) 🎭 - A guide to getting started with Playwright for .NET (C#)
